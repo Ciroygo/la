@@ -19,7 +19,7 @@ use App\Http\Controllers\Controller;
 class IndexController extends Controller
 {
     public function index(){
-       echo '陈思辰,你一定行的!';
+       echo 'githubtest';
     }
 
 }
